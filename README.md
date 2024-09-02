@@ -1,5 +1,4 @@
-# arrow_copy
-판사님 이 코드는 제가 작성하지 않았습니다.  
+# arrow_copy  
 [다운로드](https://github.com/jinwoole/arrow_copy/releases/latest/download/arrowcopy_1.0.0.exe)
 
 arrow_copy는 간단하고 효율적인 Go 애플리케이션으로, 자주 사용되는 유니코드 화살표 문자를 쉽게 복사할 수 있게 해줍니다. 작고 깔끔한 GUI를 제공하여 데스크톱에서 편리하게 사용할 수 있습니다.  
